@@ -29,7 +29,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 - **Nicolás Garavito** (Estudiante, Universidad de Arizona).  **La Vía Láctea y la gran Nube de Magallanes.**
 
-*La gran nube de Magallanes, la galaxia satélite más grande de la Vía Láctea, entró recientemente a la Vía Láctea. Como resultado de esta interacción la Vía Láctea se encuentra en desequilibrio dinámico.  Aunque este estado de desequilibrio es un reto para modelar la Vía Láctea, también es una oportunidad para estudiar la naturaleza de la materia oscura. En esta charla resumiré cómo podemos modelar la Vía Láctea en presencia de la gran nube de Magallanes y cómo podemos aprender sobre la naturaleza de la materia oscura.* [Vea la presentación.](presentaciones/)
+*La gran nube de Magallanes, la galaxia satélite más grande de la Vía Láctea, entró recientemente a la Vía Láctea. Como resultado de esta interacción la Vía Láctea se encuentra en desequilibrio dinámico.  Aunque este estado de desequilibrio es un reto para modelar la Vía Láctea, también es una oportunidad para estudiar la naturaleza de la materia oscura. En esta charla resumiré cómo podemos modelar la Vía Láctea en presencia de la gran nube de Magallanes y cómo podemos aprender sobre la naturaleza de la materia oscura.* [Vea la presentación.](presentaciones/NGaravito20212302.pdf)
 
 <HR>
   
