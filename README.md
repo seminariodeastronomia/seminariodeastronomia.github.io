@@ -7,6 +7,17 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 <HR>
 
+### Martes Mar-09-2021:
+- **Heidy M. Quitián-Lara** (Visiting Researcher Julius-Maximilians-Universität Würzburg - Alemania). **Astroquímica: de la nucleosíntesis estelar a la complejidad molecular.**
+
+*La astroquímica es la rama de la astronomía que estudia las transformaciones de la materia - átomos o moléculas, neutras o ionizadas - en los diferentes entornos y etapas evolutivas de los objetos astrofísicos del universo. Por su amplio alcance y complejidad, el estudio de Astroquímica requiere el uso conjunto de herramientas experimentales, observacionales y teóricas. Dichas técnicas permiten dilucidar las condiciones físicas y químicas que promueven la formación de moléculas simples y complejas, además de inferir sobre los diferentes mecanismos de reacción ante procesos de interacción de la materia con la radiación. Cabe mencionar que el flujo y la naturaleza de los campos de radiación comúnmente presentes en ambientes astrofísicos pueden llevar a las moléculas a diferentes estados excitados, activando reacciones químicas, procesos de ionización\disociación y la formación de nuevas especies moleculares.* [Vea la presentación.](presentaciones/)
+
+- **Juan Manuel Pacheco Arias** (Físico, Universidad Industrial de Santander). **Efectos Sistemáticos en la Diversidad de las Curvas de Rotación de Galaxias Locales.** 
+
+*Las observaciones cinemáticas de galaxias en el Universo local son una fuente primaria de información sobre las propiedades de dichos objetos. Esta información, codificada en las curvas de rotación, es fundamental para estudiar la formación y evolución de los sistemas galácticos, así como para cuantificar su contenido de materia oscura. Abonado a lo anterior, las simulaciones cosmológicas de formación de estructuras se han mostrado invaluables para el estudio de la evolución del Universo y el desarrollo de las galaxias en él. Dichas simulaciones han logrado reproducir con éxito un gran número de observaciones en el contexto del paradigma cosmológico LambdaCDM. Sin embargo, existen discrepancias notables respecto a algunos resultados observacionales. Una de las más recientes disyuntivas reportadas, es la diversidad de formas en las curvas de rotación de galaxias enanas en el Universo local. Dicha diversidad contrasta con la aparente homogeneidad de curvas en las simulaciones cosmológicas hidrodinámicas. Estudios anteriores, en problemas similares, han mostrado que discrepancias de este tipo pueden aliviarse al considerar cuidadosamente el efecto de factores observacionales en esta comparativa. Por tal motivo, este trabajo cuantificó el impacto que tienen algunos efectos sistemáticos asociados a las observaciones, en la diversidad de las curvas de rotación sintéticas. Cómo conclusión, nuestros experimentos reprodujeron, de forma espontánea, hasta un 47% de la diversidad reportada en las observaciones. Esto permitió aliviar la tensión entre observaciones y simulaciones, sin la necesidad de alterar el modelo cosmológico estándar de materia oscura fría.* [Vea la presentación.](presentaciones/)
+
+<HR>
+
 ### Martes Mar-02-2021:
 - **Maria Gracia Batista** (Observatorio Astronómico, Universidad de los Andes). **Avances en las medidas de actividad de estrellas jóvenes en el Complejo molecular de Orión.**
 
