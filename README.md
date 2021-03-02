@@ -21,7 +21,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 ### Martes Mar-02-2021:
 - **Maria Gracia Batista** (Observatorio Astronómico, Universidad de los Andes). **Avances en las medidas de actividad de estrellas jóvenes en el Complejo molecular de Orión.**
 
-*La actividad en las atmósferas estelares se puede evidenciar por la presencia de ciertas líneas espectrales. Durante la etapa de secuencia principal se sabe que la cantidad de actividad depende de la edad de las estrellas, pero la caracterización de este comportamiento en las primeras etapas de su formación es un tema que aún sigue abierto. En esta charla compartiré los avances en las medidas de actividad de un grupo de casi 1800 estrellas que están en el Complejo de formación estelar de Orión.* [Vea la presentación.](presentaciones/)
+*La actividad en las atmósferas estelares se puede evidenciar por la presencia de ciertas líneas espectrales. Durante la etapa de secuencia principal se sabe que la cantidad de actividad depende de la edad de las estrellas, pero la caracterización de este comportamiento en las primeras etapas de su formación es un tema que aún sigue abierto. En esta charla compartiré los avances en las medidas de actividad de un grupo de casi 1800 estrellas que están en el Complejo de formación estelar de Orión.* [Vea la presentación.](presentaciones/MGBatista20210203.pdf)
 
 - **Daniel Alejandro Molano Moreno** (Estudiante, Universidad de los Andes). **Teoría Post Einstein.** 
 
@@ -36,7 +36,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 - **Fredy Alexander Orjuela Lopez** (Estudiante, Universidad de los Andes). **Análisis de los parámetros en estrellas Be.**
 
-*Las estrellas  Be están acompañadas de un disco circunenstelar, lo que hace que  estas estrellas sean el escenario perfecto para entender la dinámica de lo que se conocen como discos de decreción. En esta charla de seminario, se presentan los parámetros óptimos que acompañan a los modelos que describen la dinámica de los discos circunenstelares a partir de un enfoque Bayesiano.* [Vea la presentación.](presentaciones/)
+*Las estrellas  Be están acompañadas de un disco circunenstelar, lo que hace que  estas estrellas sean el escenario perfecto para entender la dinámica de lo que se conocen como discos de decreción. En esta charla de seminario, se presentan los parámetros óptimos que acompañan a los modelos que describen la dinámica de los discos circunenstelares a partir de un enfoque Bayesiano.* [Vea la presentación.](presentaciones/FAlexander20212302.pdf)
 
 - **Nicolás Garavito** (Estudiante, Universidad de Arizona).  **La Vía Láctea y la gran Nube de Magallanes.**
 
