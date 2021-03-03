@@ -1,5 +1,6 @@
 theme: jekyll-theme-tactile
-#title: Seminarios de Astronomía
+title: Seminarios de Astronomía
+description: Seminarios de Astronomía del Departamento de Física de la Universidad de los Andes (Colombia)
 github: https://github.com/seminariodeastronomia/seminariodeastronomia.github.io
 about: Seminarios de Astronomía Universidad de los Andes (Colombia)
 avatar_url: /imagenes/seminarios_logo.png
