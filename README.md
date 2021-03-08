@@ -51,7 +51,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 - **Cesar Dagoberto Millan Valderrama** (Estudiante, Universidad de los Andes). **Estudio óptico del sistema binario de rayos X Swift J0243.6+6124.**
 
-*El sistema binario Swift J0243.6+6124 detectado en 2017 es clasificado como la única fuente de rayos X ultra luminosa en nuestra galaxia. Esta charla se basará en el artículo de P. Reig et al. (2020) “Optical counterpart to Swift J0243.6+6124”, trabajo que se encuentra entre los primeros estudios del óptico en datos espectroscópicos y fotométricos de este sistema.* [Vea la presentación.](presentaciones/)
+*El sistema binario Swift J0243.6+6124 detectado en 2017 es clasificado como la única fuente de rayos X ultra luminosa en nuestra galaxia. Esta charla se basará en el artículo de P. Reig et al. (2020) “Optical counterpart to Swift J0243.6+6124”, trabajo que se encuentra entre los primeros estudios del óptico en datos espectroscópicos y fotométricos de este sistema.* [Vea la presentación.](presentaciones/CMillan20211602.pdf)
 
 <HR>
   
