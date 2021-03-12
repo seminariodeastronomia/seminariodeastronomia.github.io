@@ -8,6 +8,17 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 <HR>
 
 ### Martes Mar-09-2021:
+- **Juan Carlos Vasto** (Profesor, Universidad Industrial de Santander). **¿Es posible reconocer fusiones de galaxias a partir de mapas de velocidad de baja resolución en z~2?**
+
+*Próximamente...* [Vea la presentación.](presentaciones/)
+
+- **Nicolás Bojacá** (Estudiante de Maestría, Universidad de los Andes). **Método del cúmulo móvil y su aplicación al cúmulo abierto de las Híades.** 
+
+*El método del cúmulo móvil ha sido utilizado ampliamente para la determinación de distancias de cúmulos abiertos especialmente cercanos como lo es el caso de las Híades. El propósito de este seminario es mostrar su aplicabilidad a un conjunto de miembros de las Híades previamente seleccionados mediante un algoritmo de aprendizaje no supervisado.* [Vea la presentación.](presentaciones/)
+
+<HR>
+
+### Martes Mar-09-2021:
 - **Heidy M. Quitián-Lara** (Visiting Researcher Julius-Maximilians-Universität Würzburg - Alemania). **Astroquímica: de la nucleosíntesis estelar a la complejidad molecular.**
 
 *La astroquímica es la rama de la astronomía que estudia las transformaciones de la materia - átomos o moléculas, neutras o ionizadas - en los diferentes entornos y etapas evolutivas de los objetos astrofísicos del universo. Por su amplio alcance y complejidad, el estudio de Astroquímica requiere el uso conjunto de herramientas experimentales, observacionales y teóricas. Dichas técnicas permiten dilucidar las condiciones físicas y químicas que promueven la formación de moléculas simples y complejas, además de inferir sobre los diferentes mecanismos de reacción ante procesos de interacción de la materia con la radiación. Cabe mencionar que el flujo y la naturaleza de los campos de radiación comúnmente presentes en ambientes astrofísicos pueden llevar a las moléculas a diferentes estados excitados, activando reacciones químicas, procesos de ionización\disociación y la formación de nuevas especies moleculares.* [Vea la presentación.](presentaciones/)
