@@ -7,7 +7,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 <HR>
 
-### Martes Mar-09-2021:
+### Martes Mar-16-2021:
 - **Juan Carlos Vasto** (Profesor, Universidad Industrial de Santander). **¿Es posible reconocer fusiones de galaxias a partir de mapas de velocidad de baja resolución en z~2?**
 
 *Próximamente...* [Vea la presentación.](presentaciones/)
