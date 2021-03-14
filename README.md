@@ -3,7 +3,7 @@
 
 Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia.
 
-<img align="left" width="160" height="120" margin-right=10em src="imagenes/1401.jpg">
+<img align="left" width="180" height="100" margin-right=10em src="imagenes/1401.jpg">
 As  Stephen Hawking said:
 > “Not only is it important to ask questions and find the answers, 
 > as a scientist I felt obligated to communicate with the world what we were learning.”
