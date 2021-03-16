@@ -13,6 +13,17 @@ As  Stephen Hawking said:
 
 <HR>
 
+### Martes Mar-123-2021:
+- **Lauren Flor Torres** (Profesora, Universidad del Valle; Cofundadora de CHIA; Líder del Grupo de Astronomía y Astrofísica Macondo - GAAM). **Caracterización espectroscópica de estrellas huéspedes de exoplanetas.** 
+
+*En esta presentación le compartiré el trabajo realizado durante el doctorado en donde se hizo uso del telescopio TIGRE para hacer observaciones en óptico de estrellas huéspedes de exoplanetas, con el fin de determinar los parámetros físicos de estos objetos y así complementar los parámetros físicos de los planetas que los orbitan. Adicionalmente les comentaré como se pudo enlazar este estudio con un análisis del momento angular de estos sistemas planetarios.* [Vea la presentación.](presentaciones/)
+
+- **Laura Natalia Martínez Ramírez** (Física, Universidad Industrial de Santander). **AGNfitter-rX: Modelando distribuciones espectrales de energía de galaxias activas desde radio hasta rayos X.**
+
+*La técnica del ajuste de SED es una herramienta muy poderosa que permite estudiar sistemas astrofísicos complejos a través de las características impresas en el espectro de emisión debidas a los procesos físicos llevados a cabo en las distintas regiones de estos sistemas. AGNfitter es un código Bayesiano de ajuste de SED que modela las distribuciones espectrales de energía de galaxias y núcleos activos desde el submilimétrico hasta el ultravioleta implementando el método de Cadenas Markov de Monte Carlo. A través de este código y adoptando una serie de modelos teóricos y semiempíricos de emisión es posible identificar la contribución de cada una de las componentes físicas principales e inferir algunas de sus propiedades. En este trabajo realizamos una actualización del código, ahora llamado AGNfitter-rX, a través de la inclusión de modelos más complejos de emisión y permitiendo el ajuste de observaciones fotométricas en radio y rayos X. La flexibilidad de esta nueva versión da al usuario la posibilidad de agregar, escoger, comparar y probar modelos de emisión, por ejemplo diferentes modelos de toro grumoso y de discos de acreción, e incluir fácilmente información a priori para restringir la exploración del espacio de parámetros. En esta charla se presentarán las principales mejoras al código y se discutirán las implicaciones físicas de la inclusión de los diferentes modelos de emisión en los ajustes.* [Vea la presentación.](presentaciones/)
+
+<HR>
+
 ### Martes Mar-16-2021:
 - **Juan Carlos Basto Pineda** (Profesor, Universidad Industrial de Santander). **¿Es posible reconocer fusiones de galaxias a partir de mapas de velocidad de baja resolución en z~2?**
 
