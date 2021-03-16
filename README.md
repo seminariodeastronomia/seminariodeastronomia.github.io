@@ -14,9 +14,9 @@ As  Stephen Hawking said:
 <HR>
 
 ### Martes Mar-16-2021:
-- **Juan Carlos Vasto** (Profesor, Universidad Industrial de Santander). **¿Es posible reconocer fusiones de galaxias a partir de mapas de velocidad de baja resolución en z~2?**
+- **Juan Carlos Basto Pineda** (Profesor, Universidad Industrial de Santander). **¿Es posible reconocer fusiones de galaxias a partir de mapas de velocidad de baja resolución en z~2?**
 
-*Próximamente...* [Vea la presentación.](presentaciones/)
+*Las simulaciones hidrodinámicas de galaxias constituyen una herramienta de investigación indispensable en la astronomía extragaláctica, al permitirnos comparar el resultado de modelos teóricos con las observaciones del mundo real. Sin embargo, para que esa comparación sea lo más significativa posible es importante considerar el impacto de distintos factores observacionales, que en principio no están presentes en las simulaciones. Una forma de lograrlo es generando observaciones sintéticas, modelando de forma realista las principales caracterı́sticas de los instrumentos y el proceso de observación. En este espacio discutiré la filosofı́a y los principales modelos por detrás  de AURORA, una librerı́a de Python concebida para recrear observaciones tipo IFU a partir de galaxias simuladas con códigos hidrodinámicos. Como caso de estudio comentaré los resultados preliminares de un experimento sobre la determinación de posibles sesgos observacionales al tratar de diferenciar, a partir de mapas de velocidad, galaxias en curso de fusión (major mergers) de remanentes estables en rotación en corrimientos al rojo 1 < z < 3. Esto es importante en la determinación de los principales mecanismos de acreción de gas en galaxias jóvenes, en la época en que el Universo experimentó la mayor tasa de formación estelar de su historia.* [Vea la presentación.](presentaciones/)
 
 - **Nicolás Bojacá** (Estudiante de Maestría, Universidad de los Andes). **Método del cúmulo móvil y su aplicación al cúmulo abierto de las Híades.** 
 
