@@ -14,7 +14,7 @@ As  Stephen Hawking said:
 <HR>
 
 ### Martes Mar-23-2021:
-- **Lauren Flor Torres** (Profesora, Universidad del Valle; Cofundadora de CHIA; Líder del Grupo de Astronomía y Astrofísica Macondo - GAAM). **Caracterización espectroscópica de estrellas huéspedes de exoplanetas.** 
+- **Lauren Flor Torres** (Profesora, Universidad del Valle; PhD en Astrofísica; Cofundadora de CHIA; Líder del Grupo de Astronomía y Astrofísica Macondo - GAAM). **Caracterización espectroscópica de estrellas huéspedes de exoplanetas.** 
 
 *En esta presentación le compartiré el trabajo realizado durante el doctorado en donde se hizo uso del telescopio TIGRE para hacer observaciones en óptico de estrellas huéspedes de exoplanetas, con el fin de determinar los parámetros físicos de estos objetos y así complementar los parámetros físicos de los planetas que los orbitan. Adicionalmente les comentaré como se pudo enlazar este estudio con un análisis del momento angular de estos sistemas planetarios.* [Vea la presentación.](presentaciones/)
 
