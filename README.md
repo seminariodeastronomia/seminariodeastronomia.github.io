@@ -75,15 +75,15 @@ As  Stephen Hawking said:
 
 *El estudio en altas energías del Sol revela las ubicaciones de liberación de energía y aceleración de partículas. En ninguna parte esta liberación de energía es más dramática que en los eventos de erupción solar (erupciones solares y eyecciones de masa coronal), en las que grandes cantidades de energía se convierten en partículas aceleradas y radiación. Esta radiación, si se dirige hacia la Tierra, podría representar un peligro para los satélites, los astronautas y las redes eléctricas para los eventos más grandes. En el pasado, los estudios de alta energía de estos procesos tenían que depender de métodos indirectos, esto es, técnicas de imágenes basadas en análisis tipo Fourier para rayos X duros y rayos gamma. En la actualidad, el advenimiento de la tecnología de enfoque directo para rayos X duros promete revolucionar el estudio de altas energías en el Sol. La óptica de rayos X duros de enfoque directo ha demostrado resultados exitosos en cohetes y globos sub-orbitales, y en el telescopio espacial NuSTAR. Esta charla dará una visión general del interés científico en el estudio de eventos eruptivos solares a altas energías y revisará los esfuerzos de instrumentación de enfoque hasta ahora, con énfasis en el desarrollo y vuelos del cohete FOXSI y los planes existentes para la co-observación de una erupción solar en conjunto con la sonda espacial Parker.* [Vea la presentación.](presentaciones/Milo_UniAndes_2021_r1.pdf)
 
-<img align="right" width="230" height="150" src="imagenes/snaps/snaps_FOrjuela.png">
-- **Fredy Alexander Orjuela Lopez** (Estudiante, Universidad de los Andes). **Análisis de los parámetros en estrellas Be.**
-
-*Las estrellas  Be están acompañadas de un disco circunenstelar, lo que hace que  estas estrellas sean el escenario perfecto para entender la dinámica de lo que se conocen como discos de decreción. En esta charla de seminario, se presentan los parámetros óptimos que acompañan a los modelos que describen la dinámica de los discos circunenstelares a partir de un enfoque Bayesiano.* [Vea la presentación.](presentaciones/FAlexander20212302.pdf)
-
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_NGaravito.png">
 - **Nicolás Garavito** (Estudiante, Universidad de Arizona).  **La Vía Láctea y la gran Nube de Magallanes.**
 
 *La gran nube de Magallanes, la galaxia satélite más grande de la Vía Láctea, entró recientemente a la Vía Láctea. Como resultado de esta interacción la Vía Láctea se encuentra en desequilibrio dinámico.  Aunque este estado de desequilibrio es un reto para modelar la Vía Láctea, también es una oportunidad para estudiar la naturaleza de la materia oscura. En esta charla resumiré cómo podemos modelar la Vía Láctea en presencia de la gran nube de Magallanes y cómo podemos aprender sobre la naturaleza de la materia oscura.* [Vea la presentación.](presentaciones/NGaravito20212302.pdf)
+
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_FOrjuela.png">
+- **Fredy Alexander Orjuela Lopez** (Estudiante, Universidad de los Andes). **Análisis de los parámetros en estrellas Be.**
+
+*Las estrellas  Be están acompañadas de un disco circunenstelar, lo que hace que  estas estrellas sean el escenario perfecto para entender la dinámica de lo que se conocen como discos de decreción. En esta charla de seminario, se presentan los parámetros óptimos que acompañan a los modelos que describen la dinámica de los discos circunenstelares a partir de un enfoque Bayesiano.* [Vea la presentación.](presentaciones/FAlexander20212302.pdf)
 
 <HR>
   
