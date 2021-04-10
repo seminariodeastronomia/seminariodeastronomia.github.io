@@ -13,10 +13,22 @@ As  Stephen Hawking said:
 
 <HR>
 
-### Martes Mar-23-2021:
+### Martes Abr-13-2021:
 - **Lauren Flor Torres** (Profesora, Universidad del Valle; PhD en Astrofísica; Cofundadora de CHIA; Líder del Grupo de Astronomía y Astrofísica Macondo - GAAM). **Caracterización espectroscópica de estrellas huéspedes de exoplanetas.** 
 
 *En esta presentación le compartiré el trabajo realizado durante el doctorado en donde se hizo uso del telescopio TIGRE para hacer observaciones en óptico de estrellas huéspedes de exoplanetas, con el fin de determinar los parámetros físicos de estos objetos y así complementar los parámetros físicos de los planetas que los orbitan. Adicionalmente les comentaré como se pudo enlazar este estudio con un análisis del momento angular de estos sistemas planetarios.* [Vea la presentación.](presentaciones/)
+
+- **Natalia Lucía Oliveros G** (Física, Universidad Industrial de Santander). **Estudio del último eclipse cromosférico del sistema binario Zeta Aurigae.**
+
+*Los sistemas binarios son objetos de gran importancia en la astrofísica, ya que permiten conocer características estelares con alta precisión, y por ende, acercarnos a conclusiones relevantes respecto a la dinámica y evolución de las estrellas. En el presente estudio se realiza un análisis del eclipse cromosférico del sistema binario zeta Aur en otoño de 2019. Durante el eclipse, la estrella compañera tipo B, sirve de sonda de luz para atravesar la cromosfera de la estrella gigante K desde atrás. El espectro puro de la gigante K obtenido en eclipse total se sustrajo -en proporción correcta y en la misma escala de longitudes de onda- de los espectros compuestos, para obtener el espectro de líneas cromosféricas del gigante. Mediante un análisis de la curva de crecimiento, se obtuvo la densidad de masa columnar cromosférica de la estrella gigante para dos puntos de altura diferentes. De esta investigación encontramos que tanto las densidades de columna y su gradiente de densidad son notablemente diferentes de los valores obtenidos en eclipses anteriores. Además se confirma que la cromosfera de la gigante zeta Aur K es muy variable. Los notables cambios en el gradiente de densidad, no pueden explicarse por cambios lentos de un equilibrio hidrostático, sino que deben resultar de procesos altamente dinámicos, dominados por la presión turbulenta.
+* [Vea la presentación.](presentaciones/)
+
+<HR>
+
+### Martes Abr-06-2021:
+- **Heidy M. Quitián-Lara** (Visiting Researcher Julius-Maximilians-Universität Würzburg - Alemania). **Astroquímica: de la nucleosíntesis estelar a la complejidad molecular.**
+
+*La astroquímica es la rama de la astronomía que estudia las transformaciones de la materia - átomos o moléculas, neutras o ionizadas - en los diferentes entornos y etapas evolutivas de los objetos astrofísicos del universo. Por su amplio alcance y complejidad, el estudio de Astroquímica requiere el uso conjunto de herramientas experimentales, observacionales y teóricas. Dichas técnicas permiten dilucidar las condiciones físicas y químicas que promueven la formación de moléculas simples y complejas, además de inferir sobre los diferentes mecanismos de reacción ante procesos de interacción de la materia con la radiación. Cabe mencionar que el flujo y la naturaleza de los campos de radiación comúnmente presentes en ambientes astrofísicos pueden llevar a las moléculas a diferentes estados excitados, activando reacciones químicas, procesos de ionización\disociación y la formación de nuevas especies moleculares.* [Vea la presentación.](presentaciones/)
 
 - **Laura Natalia Martínez Ramírez** (Física, Universidad Industrial de Santander). **AGNfitter-rX: Modelando distribuciones espectrales de energía de galaxias activas desde radio hasta rayos X.**
 
@@ -36,9 +48,6 @@ As  Stephen Hawking said:
 <HR>
 
 ### Martes Mar-09-2021:
-- **Heidy M. Quitián-Lara** (Visiting Researcher Julius-Maximilians-Universität Würzburg - Alemania). **Astroquímica: de la nucleosíntesis estelar a la complejidad molecular.**
-
-*La astroquímica es la rama de la astronomía que estudia las transformaciones de la materia - átomos o moléculas, neutras o ionizadas - en los diferentes entornos y etapas evolutivas de los objetos astrofísicos del universo. Por su amplio alcance y complejidad, el estudio de Astroquímica requiere el uso conjunto de herramientas experimentales, observacionales y teóricas. Dichas técnicas permiten dilucidar las condiciones físicas y químicas que promueven la formación de moléculas simples y complejas, además de inferir sobre los diferentes mecanismos de reacción ante procesos de interacción de la materia con la radiación. Cabe mencionar que el flujo y la naturaleza de los campos de radiación comúnmente presentes en ambientes astrofísicos pueden llevar a las moléculas a diferentes estados excitados, activando reacciones químicas, procesos de ionización\disociación y la formación de nuevas especies moleculares.* [Vea la presentación.](presentaciones/)
 
 - **Juan Manuel Pacheco Arias** (Físico, Universidad Industrial de Santander). **Efectos Sistemáticos en la Diversidad de las Curvas de Rotación de Galaxias Locales.** 
 
