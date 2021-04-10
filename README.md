@@ -103,7 +103,7 @@ As  Stephen Hawking said:
 <HR>
   
 ### Martes Feb-02-2021: 
-  
+<img align="right" width="230" height="150" padding-right=50px src="imagenes/snaps/snaps_BOostra.png">
 - **Benjamin Oostra Vannoppen** (Profesor, Universidad de los Andes). **Granulación en estrellas tipo K.**
   
 *Al medir la velocidad de una estrella, surge un problema: cada línea espectral indica una velocidad diferente. Esto se debe a movimientos convectivos en su fotosfera, fenómeno conocido como granulación, y al hecho de que cada línea espectral se forma preferiblemente en una zona diferente. En el Sol esta complicación ha sido ampliamente estudiada; pero en estrellas frías, sobre todo gigantes, el problema es más complejo.* [Vea la presentación.](presentaciones/BOostra20210202.pdf)
