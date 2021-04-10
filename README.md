@@ -110,5 +110,6 @@ As  Stephen Hawking said:
 
 - **Javier Alejandro Acevedo Barroso** (Estudiante, Universidad de los Andes). **Searching for extragalactic variable stars using Machine Learning algorithms.**
   
+<img align="left" width="170" height="130" padding-right=50px src="imagenes/snaps/snaps_JAcevedo.png">
 *El objetivo de este proyecto es encontrar estrellas variables en la galaxia NGC55 usando treinta imágenes de campo amplio tomadas para el Proyecto Araucaria con el telescopio de 2.2m MPG/ESO en el observatorio de La Silla, Chile, entre 2003 y 2006. Se entrenaron clasificadores de estrellas variables usando algoritmos de machine learning como bosques aleatorios y máquinas de soporte vectorial. Como muestras de entrenamiento se usaron los catálogos de estrellas variables de OGLE III y OGLE IV. Al final, se detectaron 150 estrellas variables, incluidas 81 de las 144 cefeidas reportadas por el Proyecto Araucaria para la galaxia NGC 55.* [Vea la presentación.](presentaciones/JAcevedo_20210202_r2.pdf)
 
