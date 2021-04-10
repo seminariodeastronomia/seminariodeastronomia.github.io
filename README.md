@@ -81,10 +81,13 @@ As  Stephen Hawking said:
 <HR>
   
 ### Martes Feb-16-2021:
+
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_SAlfonso.png">
 - **Steven Alfonso** (Estudiante, Universidad de los Andes). **Open clusters with Gaia DR2.**
 
 *En esta charla presentaré una descripción general sobre la pertenencia de estrellas con los movimientos propios del Gaia DR2 sobre los cúmulos abiertos de las Pléyades, Blanco 1 y Beehive. De acuerdo a los resultados obtenidos, se mostrarán algunas dificultades que se han presentado al identificar estrellas en los diagramas color-magnitud, principalmente aquellas que se encuentran fuera de la secuencia principal pero están inmersas en la distribución espacial del cúmulo abierto.* [Vea la presentación.](presentaciones/SAlfonso20211602.pdf)
 
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_CMillan.png">
 - **Cesar Dagoberto Millan Valderrama** (Estudiante, Universidad de los Andes). **Estudio óptico del sistema binario de rayos X Swift J0243.6+6124.**
 
 *El sistema binario Swift J0243.6+6124 detectado en 2017 es clasificado como la única fuente de rayos X ultra luminosa en nuestra galaxia. Esta charla se basará en el artículo de P. Reig et al. (2020) “Optical counterpart to Swift J0243.6+6124”, trabajo que se encuentra entre los primeros estudios del óptico en datos espectroscópicos y fotométricos de este sistema.* [Vea la presentación.](presentaciones/CMillan20211602.pdf)
