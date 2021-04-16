@@ -13,6 +13,14 @@ As  Stephen Hawking said:
 
 <HR>
 
+### Martes Abr-20-2021:
+
+- **Arturo Núñez Castiñeira** (PhD en Astrofísica). **El realismo de las simulaciones  hidrodinámicas de formación y evolución  de dinámica de galaxias  ha mejorado de manera considerable en los últimos años.** 
+
+*Intentaré hacer una revisión de las diferentes técnicas de simulaciones de galaxias haciendo énfasis en las técnicas de "Zoom-in" y en diferentes posibilidades de modelar los fenómenos que suceden a escalas menores a la resolución o sub-grilla. Mostraré también que diferentes modelos de la física a esas escalas pueden generar drásticos cambios en la comparaciones de las simulaciones con observaciones experimentales.* [Vea la presentación.](presentaciones/)
+
+<HR>
+
 ### Martes Abr-13-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_LFlor.png">
