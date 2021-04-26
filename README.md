@@ -13,7 +13,7 @@ As  Stephen Hawking said:
 
 <HR>
 
-### Martes Abr-20-2021:
+### Martes Abr-27-2021:
 
 
 - **José Iván Campos Rozo** (Estudiante de la Universidad de Graz). **Interacción del plasma y campo magnético a pequeña y gran escala en la atmósfera solar.** 
