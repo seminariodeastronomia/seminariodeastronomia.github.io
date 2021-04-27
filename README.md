@@ -15,10 +15,11 @@ As  Stephen Hawking said:
 
 ### Martes Abr-27-2021:
 
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_JICampos.png">
 
 - **José Iván Campos Rozo** (Estudiante de la Universidad de Graz). **Interacción del plasma y campo magnético a pequeña y gran escala en la atmósfera solar.** 
 
-*La conección y evolución del plasma y el campo magnético en la atmósfera solar ha sido estudiada durante largo tiempo por la comunidad de la física solar. Durante las últimas décadas, los avances en alcanzar mayor resolución espacial, temporal y espectropolarimétrica, nos han llevado a una nueva era tecnológica y científica en el entendimiento de una gran variedad de fenómenos dinámicos a pequeña y gran escala que suceden en el Sol. La dinámica de fenómennos asociados los movimientos del plasma pueden ser estudiados usando múltiples algoritmos y técnicas de correlación (LCT; November, L. J. et al. 1986, ILCT;  Welsch, B. T. et al. 2004, DAVE4VM;  Schuck, P. W., 2008, DeepVel; Asensio Ramos, A. et al. 2017), mientras que el estudio de las estructuras magnéticas requiere de técnicas más sofisticadas para inferir el campo magnñetico y otras propiedades físicas de los fenómenos.* [Vea la presentación.](presentaciones/)
+*La conección y evolución del plasma y el campo magnético en la atmósfera solar ha sido estudiada durante largo tiempo por la comunidad de la física solar. Durante las últimas décadas, los avances en alcanzar mayor resolución espacial, temporal y espectropolarimétrica, nos han llevado a una nueva era tecnológica y científica en el entendimiento de una gran variedad de fenómenos dinámicos a pequeña y gran escala que suceden en el Sol. La dinámica de fenómennos asociados los movimientos del plasma pueden ser estudiados usando múltiples algoritmos y técnicas de correlación (LCT; November, L. J. et al. 1986, ILCT;  Welsch, B. T. et al. 2004, DAVE4VM;  Schuck, P. W., 2008, DeepVel; Asensio Ramos, A. et al. 2017), mientras que el estudio de las estructuras magnéticas requiere de técnicas más sofisticadas para inferir el campo magnñetico y otras propiedades físicas de los fenómenos.* [Vea la presentación.](presentaciones/JICampos20212704_r.pdf)
 
 <HR>
 
