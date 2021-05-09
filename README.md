@@ -5,7 +5,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 As  Stephen Hawking said:
 
-<img align="left" width="130" height="90" padding-right=50px src="imagenes/1401.jpg">
+<img align="left" width="130" height="80" padding-right=50px src="imagenes/1401.jpg">
 
 >                   
 >                   “Not only is it important to ask questions and find the answers, 
