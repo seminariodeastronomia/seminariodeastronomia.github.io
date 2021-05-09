@@ -17,9 +17,19 @@ As  Stephen Hawking said:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/">
 
+- **Mariana Vargas Magaña** (Profesora e investigadora del Instituto de Física de la UNAM, México). **Learning Cosmology with the largest map of the universe.** 
+
+*During the last two decades, Sloan Digital Sky Survey (SDSS) has been operating a succession of spectroscopic surveys: SDSS I-II, BOSS and eBOSS, all of them driven by the same science goal of decrypting the mysterious cosmic expansion. In this seminar I will present the final measurements of eBOSS that represents a culmination of 20 years of spectroscopic surveys under the umbrella of SDSS.The eBOSS final analysis is the most comprehensive analysis of the largest three-dimensional map of the Universe ever created, filling in the most significant gaps in our possible exploration of its history. In this seminar I will discuss in more detail the LRG BAO and RSD results. I will present the cosmological consequences of the eBOSS measurements and conclude with the impact of the stage III dark energy experiments in the cosmological constraints.* [Vea la presentación.](presentaciones/)
+
+<HR>
+
+### Martes Abr-04-2021:
+
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_HHerrera.png">
+
 - **Hiram Herrera** (Maestro en Física y Estudiante de Doctorado de la Universidad de Guanajuato). **Estudiando el Universo con el bosque de Lyman-Alpha.** 
 
-*Nuestro entendimiento del Universo ha evolucionado a pasos agigantados en los últimos siglos. Hoy en día sabemos que el Universo está en un proceso de expansión acelerada, a lo que se le ha atribuido la posible existencia de Energía Oscura. El Dark Energy Spectroscopic Instrument (DESI) es un proyecto cuyo objetivo es estudiar la expansión del Universo y restringir los modelos de energía oscura a través de los espectros de aproximadamente 40 millones de galaxias. Entre las galaxias estudiadas por DESI se encuentran los llamados cuásares de Lyman-Alpha, con un espectro muy particular que presenta un conjunto de líneas de absorción conocido como el bosque de Lyman-Alpha. En esta plática abordaremos la importancia del bosque de Lyman-Alpha como una herramienta para el estudio de la expansión cósmica, así como resultados de una simulación de las posibles mediciones de DESI durante su primer año de observaciones.* [Vea la presentación.](presentaciones/)
+*Nuestro entendimiento del Universo ha evolucionado a pasos agigantados en los últimos siglos. Hoy en día sabemos que el Universo está en un proceso de expansión acelerada, a lo que se le ha atribuido la posible existencia de Energía Oscura. El Dark Energy Spectroscopic Instrument (DESI) es un proyecto cuyo objetivo es estudiar la expansión del Universo y restringir los modelos de energía oscura a través de los espectros de aproximadamente 40 millones de galaxias. Entre las galaxias estudiadas por DESI se encuentran los llamados cuásares de Lyman-Alpha, con un espectro muy particular que presenta un conjunto de líneas de absorción conocido como el bosque de Lyman-Alpha. En esta plática abordaremos la importancia del bosque de Lyman-Alpha como una herramienta para el estudio de la expansión cósmica, así como resultados de una simulación de las posibles mediciones de DESI durante su primer año de observaciones.* [Vea la presentación.](presentaciones/HHerrera20210405.pdf)
 
 <HR>
 
