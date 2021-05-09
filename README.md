@@ -13,7 +13,7 @@ As  Stephen Hawking said:
 
 <HR>
 
-### Martes Abr-04-2021:
+### Martes May-11-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/">
 
@@ -23,7 +23,7 @@ As  Stephen Hawking said:
 
 <HR>
 
-### Martes Abr-04-2021:
+### Martes May-04-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_HHerrera.png">
 
