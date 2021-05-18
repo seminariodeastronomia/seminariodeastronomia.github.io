@@ -16,6 +16,16 @@ As  Stephen Hawking said:
 
 <HR>
 
+### Martes May-18-2021:
+
+<img align="right" width="230" height="150" src="imagenes/snaps/">
+
+- **Luis Eduardo Salazar Manzano** (Observatorio Astronómico de la UTP). **Observación y análisis de ocultaciones estelares por cuerpos menores del Sistema Solar.** 
+
+*Los cuerpos menores del Sistema Solar son relevantes para la astronomía actual pues su estudio arroja pistas importantes acerca del origen y evolución de nuestro sistema planetario. A pesar de lo anterior, muchos de estos objetos son difíciles de detectar mediante las técnicas de observación directa, por sus tamaños reducidos y/o las distancias a las que se encuentran. En esta charla hablaremos sobre la técnica de ocultaciones estelares, la cual se constituye al día de hoy como una de las más efectivas para el estudio de los cuerpos menores del Sistema Solar. Se presentarán sus principales características, logros, y se discutirá cómo analizar las observaciones para determinar la morfología de los cuerpos ocultantes.* [Vea la presentación.](presentaciones/)
+  
+<HR>
+
 ### Martes May-11-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/">
