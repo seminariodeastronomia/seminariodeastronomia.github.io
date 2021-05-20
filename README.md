@@ -28,7 +28,7 @@ As  Stephen Hawking said:
 
 ### Martes May-11-2021:
 
-<img align="right" width="230" height="150" src="imagenes/snaps/">
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_MVargas.png">
 
 - **Mariana Vargas Magaña** (Profesora e investigadora del Instituto de Física de la UNAM, México). **Learning Cosmology with the largest map of the universe.** 
 
