@@ -18,6 +18,16 @@ As  Stephen Hawking said:
 
 ### Martes May-18-2021:
 
+<img align="right" width="230" height="150" src="imagenes/snaps/">
+
+- **Juan Carlos Aristizabal Duarte** (Estudiante, Universidad de los Andes). **Reconstrucción de los perfiles de masa y de luz mediante el efecto de lente gravitacional.** 
+
+*El efecto de lente gravitacional se produce cuando la presencia de un campo gravitacional modifica la trayectoria inicial de una luz de fondo. La desviación de la luz de una fuente lejana por la presencia de una masa intermedia proporciona una  posibilidad única para la investigación tanto de la fuente de fondo como de la distribución de la masa del cuerpo cuyo campo gravitacional modifico la trayectoria inicial de la luz. En este seminario se discutirá la forma mediante la cual es posible determinar propiedades cosmológicas usando el efecto de lente. Además, se mostraran los resultados de la reconstrucción de perfiles de masa y de luz a partir de dicho efecto. Los sistemas reconstruidos son la lente 2M1310-1714 y la lente J1537-3010, cuyas observaciones fueron obtenidas mediante el detector WFI instalado en el telescopio MPIA/ESO 2.2m, siendo de esta manera las primeras observaciones en tierra a las que se le aplica esta técnica.* [Vea la presentación.](presentaciones/)
+
+<HR>
+
+### Martes May-18-2021:
+
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_LSalazar.png">
 
 - **Luis Eduardo Salazar Manzano** (Observatorio Astronómico de la UTP). **Observación y análisis de ocultaciones estelares por cuerpos menores del Sistema Solar.** 
