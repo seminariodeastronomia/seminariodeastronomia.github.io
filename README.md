@@ -18,7 +18,7 @@ As  Stephen Hawking said:
 
 ### Martes May-25-2021:
 
-<img align="right" width="230" height="150" src="imagenes/snaps/">
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_JAristizabal.png">
 
 - **Juan Carlos Aristizabal Duarte** (Estudiante, Universidad de los Andes). **Reconstrucción de los perfiles de masa y de luz mediante el efecto de lente gravitacional.** 
 
