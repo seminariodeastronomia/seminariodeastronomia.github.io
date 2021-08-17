@@ -18,7 +18,7 @@ As  Stephen Hawking said:
   
 ### Jueves Agosto-19-2021:
 
-<img align="right" width="230" height="150" src="imagenes/snaps/snaps_JAristizabal.png">
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_MValentina.png">
 
 - **Maria Valentina Garcia Alvarado** (Estudiante, Universidad de los Andes). **Structural analysis of massive protoclusters formed from cloud collisions.** 
 
