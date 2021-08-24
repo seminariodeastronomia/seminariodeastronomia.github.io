@@ -16,7 +16,7 @@ As  Stephen Hawking said:
 
 <HR>
   
-### Jueves Agosto-19-2021:
+### Jueves Agosto-26-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_MValentina.png">
 
