@@ -37,7 +37,9 @@ As  Stephen Hawking said:
 <HR>
   
 # Histórico de Seminarios Primer semestre de 2021
-  
+
+<HR>
+    
 ### Martes May-25-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_JAristizabal.png">
