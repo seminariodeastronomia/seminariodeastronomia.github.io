@@ -18,7 +18,7 @@ As  Stephen Hawking said:
   
 ### Jueves Agosto-26-2021:
 
-<img align="right" width="230" height="150" src="imagenes/snaps/snaps_MValentina.png">
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_SRojas.jpeg">
 
 - **Sofia Rojas** (Instituto Max Planck de Astronomía-Heidelberg). **Interacciones de Radio Jets en el Medio Interestelar de un Quasar Radio-Loud a z~6.** 
 
