@@ -16,6 +16,16 @@ As  Stephen Hawking said:
 
 <HR>
   
+### Jueves Septiembre-9-2021:
+
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_GPardo.jpg">
+
+- **Gissel Pardo** (Egresada Universidad de Antioquia). **El Universo: Un lugar hostil para las galaxias** 
+
+*Al observar un gran conjunto de galaxias se aprecia que tienen diferentes formas y colores, y que algunas "viven" solas, otras en pequeños grupos o en grupos de miles de galaxias, que conocemos como cúmulos. Lo cual lleva a preguntar si las galaxias sufren una transformación o evolución similar a nosotros, donde nacemos y vamos creciendo y en algún punto envejecemos. Aunque la comparación no están justa, si se observa algo similar, las galaxias se pueden separa en dos tipos según su color y magnitud, donde están las galaxias azules que tienen alta formación estelar y las rojas que no tienen formación estelar reciente, donde ellas parecen evolucionar desde el azul al rojo, y esto nos lleva a otra pregunta ¿qué factores ayudan a que la galaxia evolucione?* [Vea la presentación.](presentaciones/)
+  
+<HR>
+  
 ### Jueves Agosto-26-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_SRojas.jpeg">
