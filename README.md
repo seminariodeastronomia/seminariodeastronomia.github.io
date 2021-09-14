@@ -16,7 +16,7 @@ As  Stephen Hawking said:
 
 <HR>
   
-### Jueves Septiembre-9-2021:
+### Jueves Septiembre-16-2021:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_PCalderon.jpg">
 
