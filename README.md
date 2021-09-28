@@ -43,7 +43,7 @@ usando espectros de alta resolución (R ~ 22500 y SNR ~ 100) del APOGEE-2S.  Los
 
 - **Paúl Adrian Calderón** (Estudiante Doctorado, Universidad de Concepción). **Que se sabe de las Estrellas variables de doble periodo (Double Periodic Variables)** 
 
-*Double Periodic Variables (DPVs) es un grupo de estrellas binarias con un período orbital entre 1 y 16 días, caracterizado por una variabilidad cíclica prolongada adicional en el rango de 50-600 dias. Estas estrellas fueron descubiertas durante la búsqueda de estrellas del tipo Be en las Nubes de Magallanes basadas en el catálogo de estrellas variables OGLE (Mennickent et al. 2003 *). Un estudio cuidadoso de la fomentaría OGLE y MACHO permitió detectar  alrededor de un centenar de este tipo de estrellas variables en las Nubes de Magallanes. Daremos un breve resumen de lo que se conoce sobre estos sistemas estelares.* [Vea la presentación.](presentaciones/)
+*Double Periodic Variables (DPVs) es un grupo de estrellas binarias con un período orbital entre 1 y 16 días, caracterizado por una variabilidad cíclica prolongada adicional en el rango de 50-600 dias. Estas estrellas fueron descubiertas durante la búsqueda de estrellas del tipo Be en las Nubes de Magallanes basadas en el catálogo de estrellas variables OGLE (Mennickent et al. 2003). Un estudio cuidadoso de la fomentaría OGLE y MACHO permitió detectar  alrededor de un centenar de este tipo de estrellas variables en las Nubes de Magallanes. Daremos un breve resumen de lo que se conoce sobre estos sistemas estelares.* [Vea la presentación.](presentaciones/)
 
 <HR>
   
