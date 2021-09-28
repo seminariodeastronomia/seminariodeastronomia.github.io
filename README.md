@@ -18,7 +18,7 @@ As  Stephen Hawking said:
   
 ### Jueves Septiembre-23-2021:
 
-<img align="right" width="230" height="150" src="imagenes/snaps/snaps_JHenao.jpg">
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_EGatuzz.jpg">
 
 - *Efrain Gatuzz, PhD.** (Max Planck Institute for extraterrestrial Physics). **Astronomía en rayos X** 
 
@@ -29,7 +29,7 @@ usando espectros de alta resolución (R ~ 22500 y SNR ~ 100) del APOGEE-2S.  Los
   
 ### Jueves Septiembre-30-2021:
 
-<img align="right" width="230" height="150" src="imagenes/snaps/snaps_EGatuzz.jpg">
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_JHenao.jpg">
 
 - **Lady Johana Henao Ocampo** (Doctorante en Ciencias Físicas del Departamento de Astronomía de la Universidad de Concepción en Chile). **Cúmulos Globulares en la Arqueología Galáctica** 
 
