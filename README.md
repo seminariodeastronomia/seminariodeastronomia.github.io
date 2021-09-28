@@ -20,10 +20,20 @@ As  Stephen Hawking said:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_JHenao.jpg">
 
-- **Lady Johana Henao Ocampo** (Doctorante en Ciencias Físicas del Departamento de Astronomía de la Universidad de Concepción en Chile). **Cúmulos Globulares en la Arqueología Galáctica)** 
+- *Efrain Gatuzz, PhD.** (Max Planck Institute for extraterrestrial Physics). **Astronomía en rayos X** 
 
 *Los Cúmulos Globulares (GCs) son excelentes trazadores de la evolución galáctica, ya que son objetos muy brillantes y son tan antiguos como la galaxia misma, con edades superiores a 12 Gyrs. Con técnicas de espectroscopía en el Infrarrojo cercano (1.5 -1.7 um) es posible derivar sus propiedades químicas y físicas, 
 usando espectros de alta resolución (R ~ 22500 y SNR ~ 100) del APOGEE-2S.  Los GCs son reliquias fósiles en el campo de la Arqueología Galáctica.* [Vea la presentación.](presentaciones/)
+  
+<HR>
+  
+### Jueves Septiembre-30-2021:
+
+<img align="right" width="230" height="150" src="imagenes/snaps/snaps_EGatuzz.jpg">
+
+- **Lady Johana Henao Ocampo** (Doctorante en Ciencias Físicas del Departamento de Astronomía de la Universidad de Concepción en Chile). **Cúmulos Globulares en la Arqueología Galáctica** 
+
+*Una de las ramas más fascinantes de la astronomía es la astronomía de rayos X. Utilizando observatorios fuera de la atmósfera terrestre, los astrónomos han podido estudiar algunos de los objetos más energéticos que existen en nuestro universo, incluyendo novas, estrellas de neutrones, agujeros negros, el medio intracluster y los cúmulos de galaxias. En esta charla haré un resumen de mi trabajo de investigación en algunas de dichas áreas.* [Vea la presentación.](presentaciones/)
 
 <HR>
   
