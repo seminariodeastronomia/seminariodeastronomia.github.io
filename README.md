@@ -20,7 +20,7 @@ As  Stephen Hawking said:
 
 <img align="right" width="230" height="150" src="imagenes/snaps/snaps_EGatuzz.jpg">
 
-- *Efrain Gatuzz, PhD.** (Max Planck Institute for extraterrestrial Physics). **Astronomía en rayos X** 
+- **Efrain Gatuzz, PhD.** (Max Planck Institute for extraterrestrial Physics). **Astronomía en rayos X** 
 
 *Una de las ramas más fascinantes de la astronomía es la astronomía de rayos X. Utilizando observatorios fuera de la atmósfera terrestre, los astrónomos han podido estudiar algunos de los objetos más energéticos que existen en nuestro universo, incluyendo novas, estrellas de neutrones, agujeros negros, el medio intracluster y los cúmulos de galaxias. En esta charla haré un resumen de mi trabajo de investigación en algunas de dichas áreas.* [Vea la presentación.](presentaciones/)
   
