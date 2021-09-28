@@ -32,8 +32,8 @@ As  Stephen Hawking said:
 
 - **Lady Johana Henao Ocampo** (Doctorante en Ciencias Físicas del Departamento de Astronomía de la Universidad de Concepción en Chile). **Cúmulos Globulares en la Arqueología Galáctica** 
 
-**Los Cúmulos Globulares (GCs) son excelentes trazadores de la evolución galáctica, ya que son objetos muy brillantes y son tan antiguos como la galaxia misma, con edades superiores a 12 Gyrs. Con técnicas de espectroscopía en el Infrarrojo cercano (1.5 -1.7 um) es posible derivar sus propiedades químicas y físicas, 
-usando espectros de alta resolución (R ~ 22500 y SNR ~ 100) del APOGEE-2S.  Los GCs son reliquias fósiles en el campo de la Arqueología Galáctica. [Vea la presentación.](presentaciones/)
+*Los Cúmulos Globulares (GCs) son excelentes trazadores de la evolución galáctica, ya que son objetos muy brillantes y son tan antiguos como la galaxia misma, con edades superiores a 12 Gyrs. Con técnicas de espectroscopía en el Infrarrojo cercano (1.5 -1.7 um) es posible derivar sus propiedades químicas y físicas, 
+usando espectros de alta resolución (R ~ 22500 y SNR ~ 100) del APOGEE-2S.  Los GCs son reliquias fósiles en el campo de la Arqueología Galáctica.* [Vea la presentación.](presentaciones/)
 
 <HR>
   
